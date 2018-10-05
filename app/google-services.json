@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "650593397480",
+    "firebase_url": "https://fir-project-9ecfd.firebaseio.com",
+    "project_id": "fir-project-9ecfd",
+    "storage_bucket": "fir-project-9ecfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650593397480:android:ec36bacf49f0e305",
+        "android_client_info": {
+          "package_name": "com.currentaffairs21.elias.cloudmessagingexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650593397480-6e05qmapaell77es0ltr256a650moskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkD0_tIJmbCkOmuSNX_RE1XYGwpXSCjcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650593397480:android:bab01e206ba3e997",
+        "android_client_info": {
+          "package_name": "com.currentaffairs21.elias.slideimageexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650593397480-6e05qmapaell77es0ltr256a650moskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkD0_tIJmbCkOmuSNX_RE1XYGwpXSCjcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650593397480:android:4f93265d6005b0c8",
+        "android_client_info": {
+          "package_name": "com.example.elias.mobilemelaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650593397480-6e05qmapaell77es0ltr256a650moskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkD0_tIJmbCkOmuSNX_RE1XYGwpXSCjcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
